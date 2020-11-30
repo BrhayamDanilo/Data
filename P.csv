@@ -1,0 +1,9 @@
+"","Pais","PIB_real","Gasto_defensa_porcentaje","Tecnologia_nuclear","Gasto_salud_porcentaje"
+"1","Japon",10000,0.34,TRUE,0.345
+"2","China",5600,0.53,TRUE,0.13
+"3","Taiwan",3400,0.62,FALSE,0.465
+"4","USA",23000,0.55,TRUE,0.564
+"5","UK",8096,0.201,TRUE,345
+"6","Colombia",5689,0.6,FALSE,0.234
+"7","Mexico",3048,0.567,FALSE,0.345
+"8","Brasil",5039,0.345,FALSE,0.7001
